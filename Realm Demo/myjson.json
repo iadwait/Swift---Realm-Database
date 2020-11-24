@@ -1,0 +1,27 @@
+//
+//  myjson.json
+//  Realm Demo
+//
+//  Created by Adwait Barkale on 24/11/20.
+//  Copyright © 2020 Adwait Barkale. All rights reserved.
+//
+
+import Foundation
+
+{
+    "id": "1",
+    "name": "Adwait Barkale",
+    "some_object": {
+        "id": "12",
+        "title": "This is Some Title",
+        "some_integer": 1,
+        "some_double": 123456.1,
+        "some_array": [
+            {
+                "id": "1",
+                "title": "This is some Title",
+                "value": "This is some value in array"
+            }
+        ]
+    }
+}
